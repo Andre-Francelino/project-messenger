@@ -7,7 +7,7 @@ public class MSNMessenger {
     }
 
     public void receberMensagem() {
-        System.out.println("Recebendo Mensagem");
+        System.out.println("Recebendo Mensagem \n");
     }
 
     public void validarConectadoInternet() {
