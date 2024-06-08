@@ -1,5 +1,9 @@
 package ProjectMessenger;
 
+import ProjectMessenger.apps.FacebookMessenger;
+import ProjectMessenger.apps.MSNMessenger;
+import ProjectMessenger.apps.Telegram;
+
 public class ComputadorUsuario {
     public static void main(String[] args) {
 
